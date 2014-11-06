@@ -1,38 +1,38 @@
 var prices = [
     {
-	name: 'sports_car',
-	price: 1999999,
+	name: 'benz',
+	price: 100000,
     },
     {
-	name: 'Item',
-	price: 1.99,
+	name: 'mini van',
+	price: 30000,
     },
     {
-	name: 'Item',
-	price: 1.99,
+	name: 'mustang',
+	price: 6000,
     },
     {
-	name: 'Item',
-	price: 1.99,
+	name: 'mini coup',
+	price: 45000,
     },
     {
-	name: 'Item',
-	price: 1.99,
+	name: 'porsche',
+	price: 75000,
     },
     {
-	name: 'Item',
-	price: 1.99,
+	name: 'ram 1500',
+	price: 50000,
     },
     {
-	name: 'Item',
-	price: 1.99,
+	name: 'Ford F150',
+	price: 45000,
     },
     {
-	name: 'Item',
-	price: 1.99,
+	name: 'jaguar',
+	price: 65000,
     },
     {
-	name: 'Item',
-	price: 1.99,
+	name: 'lambo',
+	price: 100000,
     },
 ];
