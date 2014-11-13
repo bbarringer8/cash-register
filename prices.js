@@ -9,7 +9,7 @@ var prices = [
     },
     {
 	name: 'mustang',
-	price: 6000,
+	price: 60000,
     },
     {
 	name: 'mini coup',
