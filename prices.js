@@ -1,38 +1,38 @@
 var prices = [
     {
-	name: 'benz',
+	name: 'Benz',
 	price: 100000,
     },
     {
-	name: 'mini van',
+	name: 'Mini_Van',
 	price: 30000,
     },
     {
-	name: 'mustang',
+	name: 'Mustang',
 	price: 60000,
     },
     {
-	name: 'mini coup',
+	name: 'Mini_Coup',
 	price: 45000,
     },
     {
-	name: 'porsche',
+	name: 'Porsche',
 	price: 75000,
     },
     {
-	name: 'ram 1500',
-	price: 50000,
+	name: 'Ram_1500',
+	price:50000,
     },
     {
-	name: 'Ford F150',
+	name: 'Ford_F150',
 	price: 45000,
     },
     {
-	name: 'jaguar',
+	name: 'Jaguar',
 	price: 65000,
     },
     {
-	name: 'lambo',
+	name: 'Lambo',
 	price: 100000,
     },
 ];
